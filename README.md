@@ -37,6 +37,10 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 ## Notes
 
 Describe any challenges encountered while building the app.
+The challenges that I came across was part of the submission process because it involved using git and I'm fairly new to git.
+I'm glad the tech fellows were there to assist us with it.  It saved me a lot of time that I would've spent on my own just researching
+how to do it.  Another challenge was using xcode and swift for the first time.  The steps were very easy to follow which helped me have a 
+successful app when I ran it.
 
 ## License
 
